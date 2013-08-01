@@ -1,0 +1,20 @@
+pkgbase = figlet-fonts
+	pkgdesc = Additional asciiart fonts for figlet
+	pkgver = 1.0
+	pkgrel = 2
+	url = http://www.figlet.org/fontdb.cgi
+	arch = any
+	license = GPL
+	depends = figlet
+	optdepends = jave: create cool ascii-art and figlets
+	source = ftp://ftp.figlet.org/pub/figlet/fonts/ours.tar.gz
+	source = ftp://ftp.figlet.org/pub/figlet/fonts/contributed.tar.gz
+	source = ftp://ftp.figlet.org/pub/figlet/fonts/international.tar.gz
+	source = ftp://ftp.figlet.org/pub/figlet/fonts/ms-dos.tar.gz
+	md5sums = ecfc312b626df0d04936200d074d2508
+	md5sums = 6e2dec4499f7a7fe178522e02e0b6cd1
+	md5sums = b2d53f7e251014adcdb4d407c47f90ef
+	md5sums = 49aa57ab989e8d952be037414b0bbbe4
+
+pkgname = figlet-fonts
+
