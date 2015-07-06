@@ -4,7 +4,7 @@
 
 pkgname=figlet-fonts
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Additional asciiart fonts for figlet"
 arch=('any')
 license=('GPL')

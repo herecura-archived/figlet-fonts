@@ -1,7 +1,7 @@
 pkgbase = figlet-fonts
 	pkgdesc = Additional asciiart fonts for figlet
 	pkgver = 1.0
-	pkgrel = 2
+	pkgrel = 3
 	url = http://www.figlet.org/fontdb.cgi
 	arch = any
 	license = GPL
